@@ -2,13 +2,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Og_karan69",
+    "username": "SenpaiSpider",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "strengthsmp.sadhost.com",
-    "port": 27697,
+    "ip": "PineValeSMP.aternos.me",
+    "port": 38087,
     "version": "1.21.1"
   },
   "position": {
