@@ -2,7 +2,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SenpaiSpider",
+    "username": "Sharpness",
     "password": "",
     "type": "offline"
   },
@@ -63,14 +63,14 @@
     }
   },
   "modules": {
-    "avoidMobs": true,
-    "combat": false,
+    "avoidMobs": false,
+    "combat": true,
     "beds": true,
     "chat": true,
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": false,
+    "attack-mobs": true,
     "auto-eat": true
   },
   "beds": {
